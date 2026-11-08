@@ -1,7 +1,7 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
-**Name:** Latchipatruni Charan Teja  
-**Registration Number:** 252U1R8045  
+**Name:** V. Vaheed Basha  
+**Registration Number:** 252U1R8097  
 **Class:** B.Tech CSE(QE) – 2B  
 **Section:** S-13 204
 
